@@ -1,5 +1,3 @@
-# Pull Request Template
-
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
@@ -8,17 +6,17 @@ Fixes # (issue)
 
 Please delete options that are not relevant.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] New Question
+- [ ] Revision of an existing question
+- [ ] Infrastructure change (automation, etc.)
+- [ ] Other (please elaborate) 
 
-# How Has This Been Tested?
-
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have made corresponding changes to the documentation
+- [ ] My content follows the style guidelines of this project
+- [ ] I have performed a self-review of my own content
+
+Pull requests should be thought of as a conversation. There will be some back and forth when trying to get code merged into this or any other project. With all but the simplest changes you can and should expect that the maintainers of the project will request changes to your code. Please be aware of that and check in after you open your PR in order to get your code merged in cleanly. 
+
+Thanks!
